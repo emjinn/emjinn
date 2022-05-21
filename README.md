@@ -10,3 +10,5 @@ When I'm not sunbathing at the beach in sunny San Diego, you can probably find m
 - reading personal growth books -- reach out if you ever have any recs!
 - trying to create the next best thing 😌
 
+
+
