@@ -1,4 +1,4 @@
-### Hi, I'm Emily! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi, I'm Emily! 
 
 I'm an undergraduate student at [UC San Diego](https://www.ucsd.edu/), pursuing my studies in Computer Science and Business Economics.
 
