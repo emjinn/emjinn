@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at [UC San Diego](https://www.ucsd.edu/), pursuing my studies in Computer Science and Business Economics.
 
-Currently, I'm a Product Manager Intern at [T-Mobile](https://www.t-mobile.com/), and will be joining [Microsoft](https://www.microsoft.com/) this summer on the Experiences & Devices team.
+Currently, I'm a Product Manager Intern at [T-Mobile](https://www.t-mobile.com/), and will be joining [Microsoft](https://www.microsoft.com/) this summer on the Experiences & Devices (Word Canvas) team.
 
 When I'm not sunbathing at the beach in sunny San Diego, you can probably find me...
 
