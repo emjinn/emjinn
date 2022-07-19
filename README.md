@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at [UC San Diego](https://www.ucsd.edu/), pursuing my studies in Computer Science and Business Economics.
 
-Currently, I'm interning at[Microsoft](https://www.microsoft.com/) in Redmond, Washington on the Layout & Display team for Microsoft Word.
+Currently, I'm interning at [Microsoft](https://www.microsoft.com/) in Redmond, Washington on the Layout & Display team for Microsoft Word.
 
 When I'm not sunbathing at the beach in sunny San Diego, you can probably find me...
 
