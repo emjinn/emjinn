@@ -1,8 +1,8 @@
 ### Hi, I'm Emily! 
 
-I'm an undergraduate student at [UC San Diego](https://www.ucsd.edu/), pursuing my studies in Computer Science and Business Economics.
+I'm an undergraduate student at [UC San Diego](https://www.ucsd.edu/), pursuing my studies in Computer Science.
 
-Currently, I'm interning at [Microsoft](https://www.microsoft.com/) in Redmond, Washington on the Layout & Display team for Microsoft Word.
+This last summer, I interned at [Atlassian](https://atlassian.com/) as an Associate Product Manager (APM) on the BXP Sign Up Team. Previously, I have also worked on products at [Microsoft](https://microsoft.com/) and [T-Mobile](https://tmobile.com/). 
 
 When I'm not sunbathing at the beach in sunny San Diego, you can probably find me...
 
